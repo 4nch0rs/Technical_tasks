@@ -88,7 +88,7 @@ Scores scale down gradually as values move away from the ideal range. Rain is pe
 
 - Vacation dates must be at least **14 days from today** when using the Future API
 - Weather forecasts beyond 14 days are estimates and accuracy decreases further into the future
-- Free WeatherAPI tier has a request limit of 1,000,000 calls per month
+- Free WeatherAPI tier has a request limit calls per month
 
 ---
 
